@@ -1,0 +1,46 @@
+
+		.large {
+		
+			font-size: 200%;
+		
+		}
+		
+		#green {
+		
+			color:green;
+		
+		}
+		
+		
+		.underline {
+		
+			text-decoration:underline;
+		
+		}
+		
+		.greenbox {
+		
+		position:relative;
+		background-color: #295715;
+		width:350px;
+		height:100px;
+		z-index:1;
+		}
+		
+		.purplebox {
+		
+		position:relative;
+		background-color: #B404AE;
+		width:300px;
+		top:-100px;
+		height:100px;
+		z-index:2;
+		
+		}
+		
+		.bold {
+		
+		font-weight: bold;
+		
+		}
+		
